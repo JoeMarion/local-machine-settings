@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/JoeMarion/Source/Rails/TacpQuizSite/app'
+let g:netrw_dirhist_2='/Users/JoeMarion/Source/Rails/TacpQuizSite/app/models'
+let g:netrw_dirhist_3='/Users/JoeMarion/Source/Rails/TacpQuizSite'
+let g:netrw_dirhist_4='/Users/JoeMarion/Source/Rails/TacpQuizSite/app'
+let g:netrw_dirhist_5='/Users/JoeMarion/Source/Rails/TacpQuizSite/app/controllers'
+let g:netrw_dirhist_6='/Users/JoeMarion/Source/Rails/TacpQuizSite'
+let g:netrw_dirhist_7='/Users/JoeMarion/Source/Rails/TacpQuizSite/test'
+let g:netrw_dirhist_8='/Users/JoeMarion/Source/Rails/TacpQuizSite'

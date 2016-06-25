@@ -1,0 +1,1 @@
+/Users/JoeMarion/dotfiles/vim/ftplugin/gitcommit.vim
